@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maxamedh
+- 👀 I’m interested in develeoping mobile apps
+- and know i am building a project using flutter 
